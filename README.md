@@ -2,7 +2,7 @@
 
 [![ij.start.canon](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-The Canon printer which is one of the preferred printers is also popular for photo printing. [ij.start.canon](https://ijcanoncom-ijsetup.github.io/)  is the best-selling printer; it is impossible to beat Canon if we talk about quality products. In this article, I will be mentioned you how to install a Canon printer on Windows and Mac computers.
+The Canon printer which is one of the preferred printers is also popular for photo printing. [ij.start.canon](https://https://ij-ijstartcanon.github.io/) is the best-selling printer; it is impossible to beat Canon if we talk about quality products. In this article, I will be mentioned you how to install a Canon printer on Windows and Mac computers.
 
 ## Follow the Steps below for everything you need to know about Canon iJ printers via Ij start canon.
 
@@ -17,7 +17,7 @@ The Canon printer which is one of the preferred printers is also popular for pho
 ## The Easy Way to Set Up Canon via ij.start.canon
 
 1. If your computer has not the CD-ROM, then get the setup online.
-2. Open your browser and visit the [https://ij.start.canon](https://ijcanoncom-ijsetup.github.io/) webpage.
+2. Open your browser and visit the [ij.start.canon](https://https://ij-ijstartcanon.github.io/) webpage.
 3. Here, click on SET UP.
 4. Then, submit the name of the printer model.
   * Otherwise, click on the FIRST LETTERS
@@ -25,7 +25,7 @@ The Canon printer which is one of the preferred printers is also popular for pho
   * Now, scroll down the screen, then choose your printer model and click on its model name.
 6. Then click on the SETTING UP XXXX tab,
   * Here the XXXX is indicated as your printer model.
-7. Choose the location or region of the purchased printer at ij.start.canon.
+7. Choose the location or region of the purchased printer at [ij.start.canon](https://https://ij-ijstartcanon.github.io/).
 8. Check whether the operating system is selected on the SELECT DEVICE page or not.
 9. In case if the operating system like windows is not selected, select from the given list.
    * Click the SETUP button, and it will redirect you to the download page.
@@ -37,12 +37,12 @@ The Canon printer which is one of the preferred printers is also popular for pho
 1. Ensure the browser you’ll use for ij.start.canon printer setup has its updated version.
 2. Go through Ij.start.canon (secure) site and click **“Set Up (Start Here)”**  tab.
 3. Move ahead to the next page, where you need to enter the Canon printer model.
-4. You also can choose the first two letters of your Canon ij printer from shown list on [ij.start.canon](https://ijcanoncom-ijsetup.github.io/) screen. 
+4. You also can choose the first two letters of your Canon ij printer from shown list on [ij.start.canon](https://https://ij-ijstartcanon.github.io/) screen. 
 5. Click **“Start”**.
 6. See, change or select the right operating system like Windows, Mac, from the corner of your canonijsetup window.
 7. Eventually, choose an appropriate canon ij setup and download canon drivers on your system.
 8. After software download from Ijstart canon, open downloads folder, and double-click on setup file to install the Canon printer software.
-9. Follow on-screen prompts to complete the [ij.start.canon](https://ijcanoncom-ijsetup.github.io/) printer setup installation.
+9. Follow on-screen prompts to complete the [ij.start.canon](https://https://ij-ijstartcanon.github.io/) printer setup installation.
 
 ## General Printing Issues and Its Troubleshooting
 
